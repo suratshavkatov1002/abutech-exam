@@ -1,0 +1,46 @@
+.title_w{
+    margin: 0px;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    color: darkblue;
+    margin-bottom: 35px;
+    margin-top: 38px;
+
+}
+
+.city{
+    font-size: 21px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-top: 5px;
+    color: rgba(0,0,0,0.7);
+}
+
+.temp{
+    font-size: 81px;
+    color: rgba(0,0,0,0.9);
+    font-weight: 100;
+}
+
+.header{
+    background-color: #90acfd;
+}
+
+.test{
+    background-image: url("https://mediaim.expedia.com/destination/1/0fa07e58724840de3c528174f4eb921a.jpg")!important;
+    height: 100vh;
+    background-size: cover;
+}
+
+.nav-list{
+    background-color: #90acfd;
+}
+
+.data{
+    box-shadow: dimgrey;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    margin-top: 80px;
+}
